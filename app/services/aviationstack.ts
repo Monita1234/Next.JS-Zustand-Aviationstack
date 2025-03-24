@@ -2,7 +2,7 @@ import axios from 'axios'; // Importa axios, una librería para realizar solicit
 import { ApiResponse } from '../types'; // Importa el tipo ApiResponse, que define la estructura de la respuesta de la API
 
 // Sustituye esto con tu API key de Aviationstack
-const API_KEY = 'c83e7fec4b6d294538df28446374484d'; // Clave de API para acceder a Aviationstack
+const API_KEY = '894ecc66e88f25829d7f6f3b7f90380e'; // Clave de API para acceder a Aviationstack
 const BASE_URL = 'http://api.aviationstack.com/v1'; // URL base de la API de Aviationstack
 
 interface FetchParams {
